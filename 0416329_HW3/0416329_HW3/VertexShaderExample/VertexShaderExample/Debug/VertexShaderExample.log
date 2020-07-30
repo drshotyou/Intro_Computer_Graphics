@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DrawTriangle.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  exampleHW2.cpp
+C:\Users\dsy\Documents\0416329_HW3\0416329_HW3\VertexShaderExample\VertexShaderExample\exampleHW2.cpp(241,13): warning C4101: 's2': unreferenced local variable
+C:\Users\dsy\Documents\0416329_HW3\0416329_HW3\VertexShaderExample\VertexShaderExample\exampleHW2.cpp(241,16): warning C4101: 't2': unreferenced local variable
+C:\Users\dsy\Documents\0416329_HW3\0416329_HW3\VertexShaderExample\VertexShaderExample\exampleHW2.cpp(241,8): warning C4101: 's': unreferenced local variable
+C:\Users\dsy\Documents\0416329_HW3\0416329_HW3\VertexShaderExample\VertexShaderExample\exampleHW2.cpp(241,11): warning C4101: 't': unreferenced local variable
+  VertexShaderExample.vcxproj -> C:\Users\dsy\Documents\0416329_HW3\0416329_HW3\VertexShaderExample\Debug\VertexShaderExample.exe
